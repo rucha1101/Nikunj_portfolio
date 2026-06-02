@@ -14,4 +14,4 @@ Open `index.html` in a browser.
 
 ## Customize
 
-Replace the initials portrait with Nikunj's final photo and add the final LinkedIn URL when available.
+Nikunj's LinkedIn URL is linked from the profile card. Replace the initials portrait with Nikunj's final photo when available, and add his GitHub profile/repository links if you want the project cards to link to GitHub.
